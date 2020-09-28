@@ -1,0 +1,2 @@
+# House-price-prediction
+Creating Regression model using different techniques that will predict the price of house given the number of bedrooms,size of living area,size of basement,number of floors,year it was built,year it was renovated,the location, availability waterfront and view,the grading of the house the size above and the condition of the house. I will create the model using Multiple linear regression,Quantile regression,Lasso regression,ridge regression and Elastic net. Then I will choose the best model.
